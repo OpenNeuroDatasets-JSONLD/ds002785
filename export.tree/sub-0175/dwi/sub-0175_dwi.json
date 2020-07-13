@@ -1,0 +1,32 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPdti32v2SENSE",
+    "SeriesNumber": 7,
+    "AcquisitionNumber": 7,
+    "ImageComments": "PIOP",
+    "PhilipsRescaleSlope": 5.22344,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.0277532,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.08599,
+    "RepetitionTime": 7.38871,
+    "ReconMatrixPE": 112,
+    "ImageOrientationPatientDICOM": [
+        0.998496,
+        0.0524103,
+        0.016119,
+        -0.0470879,
+        0.970199,
+        -0.237692
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20181125  GCC6.3.0",
+    "BidsifyVersion": "0.3.5",
+    "FlipAngle": 90,
+    "WaterFatShift": 18.924,
+    "ParallelAcquisitionTechnique": "SENSE",
+    "ParallelReductionFactorInPlane": 2,
+    "PhaseEncodingDirection": "j"
+}

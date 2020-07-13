@@ -1,0 +1,27 @@
+{
+    "Manufacturer": "Philips",
+    "PatientPosition": "HFS",
+    "SeriesDescription": "ImageMRSERIES",
+    "ProtocolName": "WIPt13dSENSE",
+    "SeriesNumber": 4,
+    "AcquisitionNumber": 4,
+    "ImageComments": "PIOP",
+    "PhilipsRescaleSlope": 8.73114,
+    "PhilipsRescaleIntercept": 0,
+    "PhilipsScaleSlope": 0.00769647,
+    "UsePhilipsFloatNotDisplayScaling": 1,
+    "EchoTime": 0.00378,
+    "RepetitionTime": 0.008225,
+    "ReconMatrixPE": 240,
+    "ImageOrientationPatientDICOM": [
+        0.999186,
+        0.0343678,
+        0.0211218,
+        -0.032099,
+        0.994499,
+        -0.099702
+    ],
+    "ConversionSoftware": "dcm2niix",
+    "ConversionSoftwareVersion": "v1.0.20181125  GCC6.3.0",
+    "BidsifyVersion": "0.3.5"
+}
