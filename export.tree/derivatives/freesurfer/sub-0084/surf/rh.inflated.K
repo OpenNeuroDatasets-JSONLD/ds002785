@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/fk/pw/MD5E-s578419--6ff66db4d626d96ec9f377d2fc6c5b19.K/MD5E-s578419--6ff66db4d626d96ec9f377d2fc6c5b19.K
